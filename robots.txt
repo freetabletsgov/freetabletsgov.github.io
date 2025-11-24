@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://freetabletsgov.github.io/sitemap.xml
